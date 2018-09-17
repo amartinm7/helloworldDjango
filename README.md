@@ -5,4 +5,4 @@
 First steps using django.
 
 The idea behind is create an MVC app using python as language.
-So the goal is render a helloworld html page to serve.
+So the goal is to render a helloworld html page to serve.
